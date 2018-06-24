@@ -1,0 +1,16 @@
+body{
+    background-image: url("http://www.clydefitchreport.com/wp-content/uploads/2018/01/Crystal-ball.jpg");
+    /* background-image: url("https://hips.hearstapps.com/cos.h-cdn.co/assets/cm/14/25/53a09abd1b561_-_cos-01-psychic-md.jpg"); */
+}
+p, h1{
+    color: red;
+}
+span{
+    color: blue;
+}
+span2{
+    color: magenta;
+}
+span3{
+    color: rgb(122, 182, 32);
+}
